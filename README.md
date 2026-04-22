@@ -22,31 +22,6 @@ Quizzes is a web-based application that allows users to participate in quizzes, 
 
 ---
 
-Quizzes/
-│── index.html
-│── app.html
-│── login.html
-│── time.html
-│
-├── css/
-│ ├── styles.css
-│ ├── login.css
-│ └── a.css
-│
-├── js/
-│ ├── script.js
-│ └── script.try.js
-│
-├── backend/
-│ ├── server.mjs
-│ └── psql.js
-│
-├── package.json
-├── package-lock.json
-└── requirements.txt
----
-
-
 ## 🌐 Usage
 1. Open `index.html` in your browser  
 2. Login/Register to access quizzes  
