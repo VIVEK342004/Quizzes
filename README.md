@@ -63,8 +63,8 @@ This is a web-based Quiz Application that allows users to log in, interact with 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/VIVEK342004/Quizzes.git
+cd Quizzes
 ```
 
 ### 2️⃣ Install Dependencies
